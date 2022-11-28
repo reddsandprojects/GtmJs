@@ -1,0 +1,250 @@
+{
+    "timestamp": "2022-11-18T12:47:08.7511125Z",
+    "data": {
+        "id": 149010,
+        "externalId": "SESA287006",
+        "userName": "00266819",
+        "guid": "d27f93eb-1691-4910-80ae-45843c74f0d5",
+        "firstName": "Vishwanatha",
+        "lastName": "JOIS",
+        "middleName": "N",
+        "prefix": "MR.",
+        "suffix": "N/A",
+        "primaryEmail": "Vishwanatha.Jois@se.com",
+        "personalEmail": null,
+        "homePhone": "N/A",
+        "mobilePhone": null,
+        "workPhone": "N/A",
+        "fax": "N/A",
+        "address": {
+            "country": "IND",
+            "line1": "Schneider Electric, 7th& 8th Floor",
+            "line2": "Elnath, Wing 'B', Exora Business Park",
+            "city": "Bangalore",
+            "state": "N/A",
+            "zipCode": "560103"
+        },
+        "workerStatus": {
+            "lastHireDate": "2019-01-01T00:00:00",
+            "originalHireDate": "2013-08-05T00:00:00",
+            "active": true,
+            "absent": false
+        },
+        "settings": {
+            "displayLanguage": "en-US",
+            "timeZone": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+            "trainingApprovals": 1
+        },
+        "managerId": 351683,
+        "approverId": 1576254,
+        "relations": null,
+        "ous": [
+            {
+                "id": 132442,
+                "typeId": 2
+            },
+            {
+                "id": 2490,
+                "typeId": 4
+            },
+            {
+                "id": 239930,
+                "typeId": 16
+            },
+            {
+                "id": 90012,
+                "typeId": 32
+            },
+            {
+                "id": 310867,
+                "typeId": 524289
+            },
+            {
+                "id": 75982,
+                "typeId": 524292
+            }
+        ],
+        "customFields": [
+            {
+                "id": 3,
+                "value": "Non DVC"
+            },
+            {
+                "id": 4,
+                "value": "N/A"
+            },
+            {
+                "id": 5,
+                "value": "N/A"
+            },
+            {
+                "id": 6,
+                "value": "Full-time regular"
+            },
+            {
+                "id": 7,
+                "value": "ME"
+            },
+            {
+                "id": 8,
+                "value": "N/A"
+            },
+            {
+                "id": 9,
+                "value": "SE_GL_OEC_OE"
+            },
+            {
+                "id": 10,
+                "value": "ME"
+            },
+            {
+                "id": 11,
+                "value": "N/A"
+            },
+            {
+                "id": 12,
+                "value": "Online Corporate Credentials"
+            },
+            {
+                "id": 13,
+                "value": "Not Applicable"
+            },
+            {
+                "id": 14,
+                "value": "Expert"
+            },
+            {
+                "id": 15,
+                "value": "C"
+            },
+            {
+                "id": 16,
+                "value": "INEXE"
+            },
+            {
+                "id": 17,
+                "value": "IN28"
+            },
+            {
+                "id": 18,
+                "value": "N/A"
+            },
+            {
+                "id": 19,
+                "value": "JOIS, Mr Vishwanatha"
+            },
+            {
+                "id": 20,
+                "value": "10786168"
+            },
+            {
+                "id": 21,
+                "value": "SESA651335"
+            },
+            {
+                "id": 22,
+                "value": "10524715"
+            },
+            {
+                "id": 23,
+                "value": "00266819"
+            },
+            {
+                "id": 24,
+                "value": "N/A"
+            },
+            {
+                "id": 25,
+                "value": "C001 - Project Management"
+            },
+            {
+                "id": 26,
+                "value": "C005 -Issue Resolution"
+            },
+            {
+                "id": 27,
+                "value": "C006 - Knowledge Management & Collaboration"
+            },
+            {
+                "id": 28,
+                "value": "C011 - Business Acumen"
+            },
+            {
+                "id": 29,
+                "value": "FC04 - IT Security & Risk Management"
+            },
+            {
+                "id": 30,
+                "value": "FC05 - Infrastructure Design"
+            },
+            {
+                "id": 31,
+                "value": "FC06 - Functional Requirements Analysis"
+            },
+            {
+                "id": 32,
+                "value": "FC09 - Enterprise Architecture"
+            },
+            {
+                "id": 33,
+                "value": "FC11 - Service Management"
+            },
+            {
+                "id": 34,
+                "value": "L02 - Take Risks and Innovate"
+            },
+            {
+                "id": 35,
+                "value": "L03 - Influence & Convince"
+            },
+            {
+                "id": 36,
+                "value": "L06 - Foster collaboration and networking"
+            },
+            {
+                "id": 85,
+                "value": "N"
+            },
+            {
+                "id": 86,
+                "value": "Active"
+            },
+            {
+                "id": 103,
+                "value": "International"
+            },
+            {
+                "id": 104,
+                "value": "Greater India"
+            },
+            {
+                "id": 105,
+                "value": 166
+            },
+            {
+                "id": 112,
+                "value": "SCHNEIDER ELECTRIC PRIVATE LIMITED"
+            },
+            {
+                "id": 113,
+                "value": "IW"
+            },
+            {
+                "id": 114,
+                "value": "Inactive"
+            },
+            {
+                "id": 115,
+                "value": "OEC"
+            },
+            {
+                "id": 118,
+                "value": "N"
+            }
+        ],
+        "employeeMetaData": {
+            "createdDate": "2013-08-06T02:16:30.993",
+            "modifiedDate": "2022-06-13T12:32:13.787"
+        }
+    }
+}

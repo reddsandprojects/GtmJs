@@ -1,0 +1,66 @@
+{
+    "timestamp": "2022-11-18T12:52:25.2303172Z",
+    "data": {
+        "id": 1761784,
+        "externalId": "testsmb1",
+        "userName": "testsmb1",
+        "guid": "6e617a59-c5f9-4288-b1a7-bbf348806876",
+        "firstName": "testsmb1",
+        "lastName": "testsmb1",
+        "middleName": null,
+        "prefix": null,
+        "suffix": null,
+        "primaryEmail": null,
+        "personalEmail": null,
+        "homePhone": null,
+        "mobilePhone": null,
+        "workPhone": null,
+        "fax": null,
+        "address": {
+            "country": null,
+            "line1": null,
+            "line2": null,
+            "city": null,
+            "state": null,
+            "zipCode": null
+        },
+        "workerStatus": {
+            "lastHireDate": null,
+            "originalHireDate": null,
+            "active": true,
+            "absent": false
+        },
+        "settings": {
+            "displayLanguage": "en-US",
+            "timeZone": null,
+            "trainingApprovals": 1
+        },
+        "managerId": null,
+        "approverId": null,
+        "relations": null,
+        "ous": [
+            {
+                "id": 68348,
+                "typeId": 2
+            },
+            {
+                "id": 81747,
+                "typeId": 32
+            }
+        ],
+        "customFields": [
+            {
+                "id": 105,
+                "value": 166
+            },
+            {
+                "id": 120,
+                "value": "testsmb1"
+            }
+        ],
+        "employeeMetaData": {
+            "createdDate": "2022-10-27T08:35:30.053",
+            "modifiedDate": "2022-11-18T12:17:30.17"
+        }
+    }
+}
